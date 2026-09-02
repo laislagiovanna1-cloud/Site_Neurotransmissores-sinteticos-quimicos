@@ -91,4 +91,5 @@ A química dos neurotransmissores sintéticos demonstra como o conhecimento prof
 
 ---
 
-*Projeto desenvolvido no âmbito da disciplina de Química – 1º Ano do Ensino Médio. Dados e referências atualizados até agosto de 2026.*
+*Projeto desenvolvido no âmbito da disciplina de Cultura digital e IA
+– 1º Ano do Ensino Médio. Dados e referências atualizados até agosto de 2026.*
